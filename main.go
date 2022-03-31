@@ -27,6 +27,7 @@ func main() {
 	db.Create(&Product{Code: "X24", Price: 500})
 	// db.Create(&Product{Code: "E25", Price: 250})
 
+	//prueba wander
 	fmt.Println("Producto creado correctamente")
 
 	//var product Product
